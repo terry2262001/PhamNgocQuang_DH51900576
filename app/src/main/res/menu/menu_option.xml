@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Thêm"
+        android:icon="@drawable/ic_cong"
+        android:id="@+id/mnu_them"
+        app:showAsAction="always"
+        />
+    <item android:title="Đi đến trang danh sách phim"
+        android:id="@+id/mnu_phim"/>
+    <item android:title="Đi đến trang phân loại"
+        android:id="@+id/mnu_phanloai"
+        />
+    <item android:title="Trở về"
+        android:id="@+id/mnu_trove"
+        />
+
+    <item android:title="Thông tin chi tiết"
+        android:id="@+id/mnu_thongtin"/>
+
+
+</menu>
